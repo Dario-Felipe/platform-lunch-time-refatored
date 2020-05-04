@@ -1,4 +1,4 @@
-# Boilerplate - Ruan Ramalho
+# Boilerplate - Dário Felipe
 
 Boilerplate using Yarn, Gulp, Bootstrap, e SASS.
 
